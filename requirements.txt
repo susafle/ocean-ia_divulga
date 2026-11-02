@@ -1,0 +1,27 @@
+# DivulgaRAG — Pregúntale al océano (RAG local de divulgación)
+# Instalar:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# Arrancar:  .venv/bin/streamlit run app.py   (antes, una vez: .venv/bin/python ingesta.py)
+
+streamlit==1.65.0
+langchain-core==1.6.0
+langchain-community==0.4.2
+langchain-ollama==1.1.0
+langchain-chroma==1.1.0
+langchain-text-splitters==1.1.2
+chromadb==1.5.9
+pypdf==6.16.1
+beautifulsoup4==4.15.0
+tiktoken==0.14.0
+requests==2.34.2
+
+# Opcional: QR de la URL en el modo profe (la app funciona sin ellos)
+qrcode==8.2
+pillow==12.3.0
+
+# Fuera de pip: Ollama con al menos un modelo de texto y uno de embeddings
+#   ollama pull qwen3:4b-instruct
+#   ollama pull qwen3-embedding:0.6b
+
+# Tests y lectura de configuración
+pytest==9.0.2
+pyyaml==6.0.3

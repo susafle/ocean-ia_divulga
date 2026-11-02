@@ -1,0 +1,12 @@
+Fotos de la app «Pregúntale al océano»
+=======================================
+
+Esta carpeta está vacía a propósito: las fotos de campaña de la autora no
+se distribuyen con el repositorio.
+
+Si usas esta app en tus propios talleres, deja aquí tus fotos (.jpg, .jpeg,
+.png; también vídeos .mp4) y asigna cada una a su temática en el diccionario
+FOTOS de rag/config.py. Si una foto listada no existe, la app simplemente la
+omite: las tarjetas se muestran con su emoji y la galería no aparece.
+
+Usa solo fotos tuyas o con licencia que permita el uso que les vayas a dar.

@@ -1,0 +1,17 @@
+bases/
+.superpowers/
+__pycache__/
+*.pyc
+.venv/
+fuentes_pdf/*.pdf
+portrait.jpg
+portrait_selected.jpeg
+
+# Fotos: material de la autora, solo uso local, nunca se publican
+fotos/*.jpg
+fotos/*.jpeg
+fotos/*.png
+fotos/*.mp4
+
+# Directorio interno de Claude Code (worktrees temporales)
+.claude/
