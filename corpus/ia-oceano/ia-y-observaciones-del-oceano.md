@@ -5,7 +5,7 @@ fuente: "Flecha S. et al. 2022, «pH trends and seasonal cycle in the coastal Ba
 ---
 # Mar e inteligencia artificial: cómo se combinan
 
-Los estudios de este tema tienen una idea común: juntar muchos años de medidas del océano con modelos de inteligencia artificial para entender mejor cómo cambia. No se usa la IA en lugar de medir. Se usa porque medir es difícil.
+Esta línea de trabajo se llama **OCEAN-IA**: inteligencia artificial y aprendizaje automático aplicados al océano. Los estudios de este tema tienen una idea común: juntar muchos años de medidas del océano con modelos de inteligencia artificial para entender mejor cómo cambia. No se usa la IA en lugar de medir. Se usa porque medir es difícil.
 
 ## ¿Qué datos se mezclan?
 

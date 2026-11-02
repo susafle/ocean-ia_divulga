@@ -5,7 +5,7 @@ fuente: Flecha S. et al. 2025, "Integrated meteocean and seismic dataset for AI-
 ---
 # La IA que usa un volcán para medir CO₂
 
-¿Se puede estimar el CO₂ del agua del mar usando también los temblores de un volcán? Parece una locura, pero es justo lo que probó el equipo en la Antártida.
+¿Se puede estimar el CO₂ del agua del mar usando también los temblores de un volcán? Parece una locura, pero es justo lo que probó el equipo de OCEAN-IA en la Antártida.
 
 ## El sitio: Isla Decepción
 

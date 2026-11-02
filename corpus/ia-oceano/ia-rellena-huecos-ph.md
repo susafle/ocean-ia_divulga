@@ -9,7 +9,7 @@ Imagina que tienes un termómetro en tu balcón que apunta la temperatura cada h
 
 ## El estudio
 
-En 2022, el equipo publicó en *Scientific Reports* un trabajo sobre la costa de las islas Baleares (Mar Mediterráneo occidental). Usaron **sensores autónomos** en **dos sitios costeros**: la Bahía de Palma (pH medido cada hora desde diciembre de 2018) y el Parque Nacional de Cabrera (desde noviembre de 2019). Los datos llegan hasta diciembre de 2021. Los sensores medían pH, temperatura, salinidad y oxígeno disuelto.
+En 2022, el equipo de OCEAN-IA publicó en *Scientific Reports* un trabajo sobre la costa de las islas Baleares (Mar Mediterráneo occidental). Usaron **sensores autónomos** en **dos sitios costeros**: la Bahía de Palma (pH medido cada hora desde diciembre de 2018) y el Parque Nacional de Cabrera (desde noviembre de 2019). Los datos llegan hasta diciembre de 2021. Los sensores medían pH, temperatura, salinidad y oxígeno disuelto.
 
 En Cabrera hubo un hueco grande, de diciembre de 2019 a junio de 2020. El sensor se estropeó y la reparación se alargó por el confinamiento de la COVID-19.
 

@@ -5,7 +5,7 @@ fuente: Flecha S. et al. 2025, "Drivers of the spatiotemporal distribution of di
 ---
 # ¿Qué manda en el N₂O del mar? Lo pregunta un modelo de IA
 
-El **óxido nitroso (N₂O)**, también llamado «gas de la risa», es un gas de efecto invernadero que también hay disuelto en el mar. En un estudio de 2025, el equipo midió cuánto N₂O hay en agua costera de Baleares y se preguntaron qué factores lo controlan. (Las mediciones están explicadas en el tema «Los gases del mar».)
+El **óxido nitroso (N₂O)**, también llamado «gas de la risa», es un gas de efecto invernadero que también hay disuelto en el mar. En un estudio de 2025, el equipo de OCEAN-IA midió cuánto N₂O hay en agua costera de Baleares y se preguntaron qué factores lo controlan. (Las mediciones están explicadas en el tema «Los gases del mar».)
 
 ## El truco: preguntarle a un modelo
 

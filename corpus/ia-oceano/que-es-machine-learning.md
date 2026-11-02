@@ -34,7 +34,7 @@ Según el apartado de métodos de Flecha et al. (2022):
 
 ## ¿Y qué pinta el océano en todo esto?
 
-Los sensores del mar producen muchísimos datos, y a veces fallan o se apagan. El modelo aprende de la temperatura, la salinidad y el oxígeno para estimar el pH cuando falta. Los datos abiertos y reproducibles, siguiendo los principios **FAIR**, permiten que otros equipos comprueben y reutilicen lo que se hizo.
+El equipo de OCEAN-IA aplica estas técnicas al mar. Los sensores del mar producen muchísimos datos, y a veces fallan o se apagan. El modelo aprende de la temperatura, la salinidad y el oxígeno para estimar el pH cuando falta. Los datos abiertos y reproducibles, siguiendo los principios **FAIR**, permiten que otros equipos comprueben y reutilicen lo que se hizo.
 
 ## ¿Es magia?
 
